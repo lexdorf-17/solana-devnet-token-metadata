@@ -1,0 +1,6 @@
+{
+  "name": "Belajar Token",
+  "symbol": "BLJR",
+  "description": "Token latihan di Solana devnet. Tidak bernilai.",
+  "image": "https://raw.githubusercontent.com/lexdorf-17/solana-devnet-token-metadata/main/bljr.png"
+}
